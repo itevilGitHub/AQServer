@@ -5,6 +5,6 @@ spring:
   config:
    server:
     git:
-     uri: https://github.com/songxiansen521/spring-cloud-config-repo.git
+     uri: https://www.baidu.com
      username: ****your git name****
      password: ****your git pw****
