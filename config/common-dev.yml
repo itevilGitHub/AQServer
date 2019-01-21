@@ -8,4 +8,5 @@ spring:
      uri: https://www.baidu.com
      username: test
      password: test
-testName:Hello My Love
+
+testName=Hello
